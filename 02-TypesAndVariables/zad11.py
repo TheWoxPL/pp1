@@ -1,0 +1,1 @@
+print("My name is {imie}, I’m {wiek} years old, and my height is {height} cm".format(imie="Wojtek", wiek=20, height=175))
