@@ -6,4 +6,10 @@ e) 5.0 - int
 f) 0 - int
 g) 11 - int
 h) True - boolean
-i) 
+i) True - boolean
+j) False - boolean
+k) True - boolean
+l) False - boolean
+m) 3 - int
+n) 17+3+11=31 - int 
+o) 1 - int 
