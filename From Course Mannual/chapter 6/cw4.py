@@ -1,0 +1,1 @@
+"banan".count("a")

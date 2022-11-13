@@ -1,0 +1,1 @@
+fruit[:] oznacza, że zostaną zwrócone wszystkie znaki od pierwszego do ostatniego znaku w stringu.

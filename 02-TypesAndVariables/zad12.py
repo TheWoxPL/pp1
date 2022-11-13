@@ -1,0 +1,1 @@
+print("The value is {value}, and … is its second power is {second_power} .".format(value=5, second_power=5**2))

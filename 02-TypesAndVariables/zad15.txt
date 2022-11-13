@@ -1,0 +1,8 @@
+a) 53, typ int
+b) 21 - typ int
+c) 3 - typ int
+d) 3 - typ int
+e) 5,25 - typ float
+f) 1024 - typ int
+g) 7 - typ int
+h) 20.0 - typ
