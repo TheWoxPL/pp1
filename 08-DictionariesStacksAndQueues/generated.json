@@ -1,0 +1,45 @@
+  {
+    "_id": "63846f9495f2b8ef55a5b3fb",
+    "index": 0,
+    "guid": "b4dc09e4-e3e0-47b2-8ecd-9514f59c9504",
+    "isActive": true,
+    "balance": "$2,932.99",
+    "picture": "http://placehold.it/32x32",
+    "age": 26,
+    "eyeColor": "blue",
+    "name": "Rena Swanson",
+    "gender": "female",
+    "company": "LUNCHPAD",
+    "email": "renaswanson@lunchpad.com",
+    "phone": "+1 (954) 452-3398",
+    "address": "951 River Street, Farmers, District Of Columbia, 4043",
+    "about": "Veniam est aliquip elit exercitation elit dolor. Enim consectetur id mollit proident excepteur voluptate pariatur et cupidatat. Laboris nisi non exercitation ex tempor id occaecat aute adipisicing cillum. Qui aliquip exercitation esse adipisicing cupidatat adipisicing mollit ad. Labore cupidatat amet deserunt veniam ex magna consequat enim dolore aute elit. Consectetur officia pariatur occaecat mollit tempor esse minim aliqua velit consequat culpa eiusmod pariatur.\r\n",
+    "registered": "2022-11-20T09:16:57 -01:00",
+    "latitude": 82.70089,
+    "longitude": -14.021839,
+    "tags": [
+      "non",
+      "occaecat",
+      "commodo",
+      "eu",
+      "esse",
+      "irure",
+      "eu"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Kemp Dodson"
+      },
+      {
+        "id": 1,
+        "name": "Joyce Barber"
+      },
+      {
+        "id": 2,
+        "name": "Wheeler Walter"
+      }
+    ],
+    "greeting": "Hello, Rena Swanson! You have 2 unread messages.",
+    "favoriteFruit": "apple"
+  }
